@@ -1,0 +1,3 @@
+# A sample label carries a real buyer's name, phone and address, and this repository is public.
+# The tests build their labels in code: a PDF dropped here to try is never committed.
+*.pdf
